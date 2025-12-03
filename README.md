@@ -1,62 +1,78 @@
-# 👋 Hi, I'm Ajit Mishra — Full-Stack Developer & Digital Solution Architect
-
-I build **real-world, scalable, no-nonsense applications** with a focus on  
-**clean UI, solid backend architecture, automation, integrations, and performance.**  
-Mera kaam seedha, practical aur result-oriented hota hai — bina unnecessary sugar-coating ke.
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00A3FF&vCenter=true&lines=Hi+I'm+Ajit+Mishra;Full-Stack+Developer;Digital+Solution+Architect;Automation+%7C+SaaS+%7C+API+Expert" />
 
 ---
 
-## 🚀 What I Do
-- **Full-Stack Web Development** (HTML, CSS, JS, PHP, Laravel, Node.js)
-- **Custom Admin Panels & Dashboards**
-- **API Integrations**  
-  - WhatsApp API  
-  - n8n Workflows  
-  - Webhooks  
-  - Custom REST APIs
-- **SaaS & Multi-Tenant Systems Development**
-- **UI/UX Mockups → Pixel-Perfect Frontend**
-- **Automation Solutions** (Marketing, Booking, CRM, Workflows)
+## 🚀 About Me  
+💡 I build **scalable, clean and result-driven applications** —  
+UI ho ya backend architecture, mera focus **clarity + performance + practicality** hota hai.
+
+🧑‍💻 Specialized in:  
+- SaaS & Multi-Tenant Systems  
+- Custom Dashboards & Admin Designs  
+- API Integrations (WhatsApp, n8n, Webhooks)  
+- Pixel-perfect Frontends  
+- Automation & Workflow Solutions  
 
 ---
 
-## 🧠 My Work Style
-- Direct, honest & expert-level technical guidance  
-- Problem-solving with clarity  
-- Clean architecture, reusable components, scalable design  
-- User-centric approach with professional Indian business requirements in mind  
-- Fast prototyping → polished production builds  
+## 🛠 Tech Stack & Tools  
+
+### **Frontend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
+</p>
+
+### **Backend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+</p>
+
+### **Database**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+</p>
+
+### **DevOps / Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+</p>
 
 ---
 
-## 🔧 Tech Stack
-**Frontend:** HTML5, CSS3, TailwindCSS, JavaScript  
-**Backend:** PHP, Laravel, Node.js, Express  
-**Database:** MySQL, PostgreSQL  
-**Tools:** Git, Docker, n8n, Render, Cloud Deployments  
-**Design:** Figma, Canva, Custom Mockups
+## 📊 GitHub Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-## 📂 What Clients Usually Come To Me For
-- Complete redesign of admin dashboards  
-- SaaS platforms without bloated code  
-- Custom UI for CodeCanyon products  
-- Branding-focused page designs for Indian businesses  
-- API connection issues (WhatsApp, n8n, IoT devices like Alexa/Echo Dot)  
-- Professional content writing for digital products
+## 🏆 Achievements & Highlights  
+- Built multiple **custom SaaS dashboards**  
+- Solved complex **API + automation** issues (WhatsApp, n8n, IoT, etc.)  
+- Known for **clean guidance & no-nonsense development style**  
+- Trusted by clients for **UI redesigns + scalable backend**  
 
 ---
 
-## 📫 Contact
-If you're building something serious, practical and scalable, I'm here to help.
+## 📬 Connect With Me  
+<p>
+  <a><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
 ---
 
-## ⚡ Fun Side
-I keep my communication **clear, sharp and helpful** —  
-and I prefer practical problem-solving over long theory.
-
----
-
-> “If you can explain the problem clearly, I can solve it cleanly.”
+## 🔥 My Developer Philosophy  
+> **“Clear problem → Clean solution. No overthinking. No fluff.”**
