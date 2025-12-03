@@ -1,21 +1,62 @@
-<h1 align="center">Hi 👋, I'm Ajit Kumar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+# 👋 Hi, I'm Ajit Mishra — Full-Stack Developer & Digital Solution Architect
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitkrmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ajitkrmishra" /> </p>
+I build **real-world, scalable, no-nonsense applications** with a focus on  
+**clean UI, solid backend architecture, automation, integrations, and performance.**  
+Mera kaam seedha, practical aur result-oriented hota hai — bina unnecessary sugar-coating ke.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitkrmishra" alt="ajitkrmishra" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/ajit9113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ajit9113" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ajit_mishra______/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ajit_mishra______/" height="30" width="40" /></a>
-</p>
+## 🚀 What I Do
+- **Full-Stack Web Development** (HTML, CSS, JS, PHP, Laravel, Node.js)
+- **Custom Admin Panels & Dashboards**
+- **API Integrations**  
+  - WhatsApp API  
+  - n8n Workflows  
+  - Webhooks  
+  - Custom REST APIs
+- **SaaS & Multi-Tenant Systems Development**
+- **UI/UX Mockups → Pixel-Perfect Frontend**
+- **Automation Solutions** (Marketing, Booking, CRM, Workflows)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajitkrmishra&show_icons=true&locale=en&layout=compact" alt="ajitkrmishra" /></p>
+## 🧠 My Work Style
+- Direct, honest & expert-level technical guidance  
+- Problem-solving with clarity  
+- Clean architecture, reusable components, scalable design  
+- User-centric approach with professional Indian business requirements in mind  
+- Fast prototyping → polished production builds  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajitkrmishra&show_icons=true&locale=en" alt="ajitkrmishra" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitkrmishra&" alt="ajitkrmishra" /></p>
+## 🔧 Tech Stack
+**Frontend:** HTML5, CSS3, TailwindCSS, JavaScript  
+**Backend:** PHP, Laravel, Node.js, Express  
+**Database:** MySQL, PostgreSQL  
+**Tools:** Git, Docker, n8n, Render, Cloud Deployments  
+**Design:** Figma, Canva, Custom Mockups
+
+---
+
+## 📂 What Clients Usually Come To Me For
+- Complete redesign of admin dashboards  
+- SaaS platforms without bloated code  
+- Custom UI for CodeCanyon products  
+- Branding-focused page designs for Indian businesses  
+- API connection issues (WhatsApp, n8n, IoT devices like Alexa/Echo Dot)  
+- Professional content writing for digital products
+
+---
+
+## 📫 Contact
+If you're building something serious, practical and scalable, I'm here to help.
+
+---
+
+## ⚡ Fun Side
+I keep my communication **clear, sharp and helpful** —  
+and I prefer practical problem-solving over long theory.
+
+---
+
+> “If you can explain the problem clearly, I can solve it cleanly.”
